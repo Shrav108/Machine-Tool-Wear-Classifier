@@ -20,4 +20,4 @@ A tool degrades(wears out) in its lifetime as per given graph. The graph can be 
 
 Vibration signals can be used to classify these states.
 
-![](https://github.com/Shrav108/Machine-Tool-Wear-Classifier/blob/main/Pictures/Tool%20Wear%20Classifier.PNG)
+![](https://github.com/Shrav108/Machine-Tool-Wear-Classifier/blob/main/Pictures/Tool%20Wear%20States.PNG)
